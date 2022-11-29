@@ -6,8 +6,13 @@ export default function Text_Logo() {
               Brooklyn Web_Pro
             </h1>
             <p className="tm-text-primary tm-site-description">
-              nama anggota kelompok <br/>
-              1. <br/>
+              OUR TEAM <br/>
+              1. Jovan Runturambi<br/>
+              2. Wilmore Italilpessy<br/>
+              3. Shirley Tambanua<br/>
+              4. Veren Rondonuwu<br/>
+              5. Jassy Mundung<br/>
+              6. Oxana Maindoka
               
             </p>
           </div>

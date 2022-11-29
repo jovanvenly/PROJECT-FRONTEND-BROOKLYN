@@ -15,26 +15,26 @@ export default function Text_Outro() {
           </div>
           <div className="col-sm-12 col-md-6">
             <div className="tm-section-text-container-6">
-              <a className="tm-social-icon-container">
+              {/* <a className="tm-social-icon-container">
                 <span className="tm-social-icon-container-inner">
                   <i className="fab fa-facebook-f" />
                 </span>
-              </a>
-              <a className="tm-social-icon-container">
+              </a> */}
+              {/* <a className="tm-social-icon-container">
                 <span className="tm-social-icon-container-inner">
                   <i className="fab fa-twitter" />
                 </span>
-              </a>
-              <a className="tm-social-icon-container">
+              </a> */}
+              {/* <a className="tm-social-icon-container">
                 <span className="tm-social-icon-container-inner">
                   <i className="fab fa-instagram" />
                 </span>
-              </a>
-              <a className="tm-social-icon-container">
+              </a> */}
+              {/* <a className="tm-social-icon-container">
                 <span className="tm-social-icon-container-inner">
                   <i className="fab fa-google-plus-g" />
                 </span>
-              </a>
+              </a> */}
             </div>
           </div>
         </div>

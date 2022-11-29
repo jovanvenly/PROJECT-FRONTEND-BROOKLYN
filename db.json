@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" },
+  "contact":[
+    {"collum1":"media mb-5", "href1":"#","collum2":"tm-contact-link","collum3":"tm-contact-icon-container","collum4":"tm-contact-icon-container-inner","collum5":"fas fa-phone tm-contact-icon tm-phone-icon","collum6":"media-body","fill":"010-020-0340"},
+    {"collum1":"media mb-5", "href1":"mailto:","collum2":"tm-contact-link","collum3":"tm-contact-icon-container","collum4":"tm-contact-icon-container-inner","collum5":"fas fa-envelope tm-contact-icon","collum6":"media-body","fill":"info@company.com"},
+    {"collum1":"media", "href1":"","collum2":"tm-contact-link","collum3":"tm-contact-icon-container","collum4":"tm-contact-icon-container-inner","collum5":"fas fa-map-marker-alt tm-contact-icon","collum6":"media-body","fill":"Suspendisse ultricies  Scelerisque tellus, ID  Magna aliquet porttitor"}
+]
+}
